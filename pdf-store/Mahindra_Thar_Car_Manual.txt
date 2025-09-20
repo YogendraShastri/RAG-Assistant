@@ -1,0 +1,751 @@
+ISSUED : SEPTEMBER 2009Mahindra THAROWNER'S MANUAL
+(2)Foreword
+Thank you for buying a MAHINDRA vehicle. We trust
+it meets your expectations & will provide you with yearsof enjoyable motoring. This OWNER'S MANUAL has beenprepared for the reference of the Owner & it is hopedthat this will enable him to acquire working knowledgeof MAHINDRA THAR
+Contents include vehicle specifications, driving notes &
+maintenance schedule.
+Owners are advised to get all the repairs & maintenance
+work, done by our Authorised Dealers. They are alsoadvised to use genuine Mahindra Parts manufacturedto original specifications.Every reasonable effort has been made to ensure that
+this booklet is accurate / up to date. The procedures,specifications, dimensions referred to are subject tochange in accordance with the Company's policy ofconstant product improvements.
+Please contact nearest Authorized Service Dealer,for
+periodical vehicle maintenance & repairs.
+Mahindra THAR(3)Contents
+Do's & Don'ts
+Maintenance Procedure
+zVehicle Maintenance when Out of Use
+zEngine
+zClutch
+zSteering System
+zTyres
+zElectrical Equipments
+Service Data
+zRecommended lubricants
+zBulb Specification
+zMaintenance ScheduleInformation to owner
+zManufacturer's Warranty
+zScope of Warranty
+zEngine & Vehicle Specifications
+Identification of Serial Numbers
+zChassis
+zEngine
+zVehicle
+Instrument Panel & Controls
+Guidelines on Driving
+zHints to Driver
+zSafety First
+zGear Changing
+zDriving Techniques in 4-Wheel Drive
+Guidelines on Emission
+Mahindra THARMAHINDRA & MAHINDRA LTD,  INTERNATIONAL
+OPERATIONS,MAHINDRA TOWRES, 2ND FLOOR,
+AUTOMOTIVE SECTOR, WORLI,MUMBAI 400089,  INDIA
+warrants to retail purchaser of the Motor Vehicle
+branded as ‘ MahindraTHAR ‘ (hereinafter referred to
+as ‘vehicle’) to be free from defects in material andworkmanship under normal use as instructed in t heOwner’s Manual & Service, under the warranty,Company’s Authorised dealer will repair or replace anypart  thereof, including all equipments or trade limited
+to trade accessories (except those governed byspecial warranty policy stipulated by  respectivemanufacturers, like tyres and batteries etc.)originally supplied by us subject to all other termsand conditions specified herein below found to bedefective in materials or workmanship in Company/ Dealer opinion within 2 years or before suchvehicle has  been driven 50,000 kms. from the dateof delivery of the Vehicle to the retail customer( theOriginal Purchaser), whichever occurs earlier.For the purpose of this warranty,the term ‘ Product ’means
+and includes only new vehicles manufactured by thecompany and / or sold by the Company’s AuthorisedDealers.
+This warranty is limited to the delivery to the purchaser,
+at the Authorised Dealer’s workshop or at any other  placeat the discretion of the company,of the part orpartswhether new or repaired, in exchange for thoseacknowledged by the Dealer to be defective and endorsedby the company to that effect. The parts so repaired orreplaced shall also be warranteed for quality andworkmanship but such warranty shall be co-terminus withthis warranty.
+Manufacturer’s Warranty
+(4) Mahindra THARThis warranty shall not apply to and Company shall in no way
+be liable for any vehicle which shall have been repaired outside
+and Authorised Company’s Service Station or which has beenaltered or modified or  built upon in any way or which has
+been subjected to misuse, negligence or accident.
+This Warranty is in lieu of all other Warranties express or
+implied, and no person, agent or representative of the
+Company is authorised to give any other warranties on theCompany’s behalf or to assume for it any other liability inconnection, with the vehicle.
+The Company’s responsibility is limited to the terms of this
+Warranty and it shall not be answerable for personal injuries
+or consequential or resulting liability, damage or loss arising
+from any defects.
+The Company’s Liability under this Warranty is dependent
+upon the strict observance by the Purchaser, of the followingprovisions :a) The purchaser shall take Pre-Delivery Inspection,
+b) All the paid services are mandatory to be carried out as
+per the stipulated maintenance period Kilometers /
+month in service till the full completion of the warranty
+period at any of Mahindra authorised service outlets toavail the warranty benefits.
+c) Repairs or replacements will be performed by the
+Authorised Dealer of the Company, subject to the
+reporting of the vehicle to the nearest Authorised
+Dealer’s workshop.
+d) We further reserve the right, at anytime or times, without
+notice, or revise, modify, discontinue or change any ofthe models of our vehicles or any party thereof and
+neither company nor the seller with incurr any liability
+or obligations to the purchaser by reasons or anyrevisions, modifications, discontinuation or changes.Manufacturer’s Warranty
+(5) Mahindra THARe) The Purchaser shall at all times in the operation of vehicle
+use only those brands of lubricating oils, lubricants or
+fuel, as recommended by the Company,
+f) The judgement of the Company or its Auhtoirsed Dealers
+in all cases of claims shall be final and conclusive andthe purchaser agrees to accept its decision on all
+questions as to defects and to the exchange of part of
+parts.  The replaced parts shall be the property of theCompany.
+g) Claims arising from this Warranty will be recognised only
+if they are ascertained / confirmed by the Authorised Dealer
+and notified to the Company without delay, after the defect
+has been ascertained.
+ Warranty is applicable in case :
+a) Repairs  are  required because of the following reasons.i) The Vehicle is not operated / used as per the
+recommendation in the Owner’s Manual or;
+ii) The Vehicle is subjected to accidents, or theft or fire;
+iii) The Vehicle is subjected to abnormal use such as racing,
+rallying or participation in any other sports competitions.
+iv) Any modification are carried out.
+b) Appearance Items :
+Any slight imperfections in paint, chrome and trim and
+other decorative parts, deterioration of exterior item,
+trim and other decorative part due to normal exposureor use is not covered under the terms of Warranty.Manufacturer’s Warranty
+(6) Mahindra THARc) Door and windshield glass breakage and fused bulbs
+are not covered under Warranty.
+d) Normal Maintenance Service Replacement Items :
+Filters, Brake or clutch innings, wiper blades, Belts,
+Cables, Spring Bushings, U-Joints Cross, Water Pump
+Kits, Tie Rod Ends, Bell-crank Kit, Hoses,  Kits and Bulbs,Spark plugs, Condenser.  Please note that this list is
+neither exclusive nor exhaustive and the decision of
+the Company shall be final in this regard.
+e) Property Items :
+The following are propriety items and warranty is
+provided by the respective Manufacturers under theirwarranty  terms.  Any complaint on the following items,
+are to be referred to the respective manufacturers of
+these items / or their authorised local agents forwarranty claim / repairs / replacements.  In case ofdifficulty Company’s dealer will assist purchaser to
+conclude the complaint satisfactorily.  Their decisionwill be final on warranty.1. Tyres
+2. Fuel Injection Pump3. Battery
+f) Company makes on Warranty nor assume any liability in
+respect of any defect in metal or other material in any part,
+device of trade accessories which would not have been
+discovered by ordinary factory inspection.
+g) Repairs required due to following reasons :
+i) Due to unauthorised modifications of the vehicle which in
+any way affects the stability or reliability of the components
+of the basic vehicle.
+ii) Continued usage in spite of awareness of defects of the
+components of the basic vehicle.
+iii) Excess / heavy load beyond the carrying capacity of
+the vehicle affecting the basic structure of the Vehicle.Manufacturer’s Warranty
+(7) Mahindra THAR(8) Mahindra THARNEF CRDE 2.49L ENGINEEngine Specification
+Cylinder block - Cast Iron
+Cylinder Liner - Wet replaceableCrank Shaft - Forged Steel, 5 Bearing journalConnecting rods - Forged SteelMain bearings - Aluminium tin SiPistons - AluminiumCylinder Head - Cast IronCam shaft - Chilled casting, 3 BearingTurbo Charger - Model K03-2070, Make: TELValves - Overhead, Rocker Arm operatedTiming - Electronic control
+Lubrication - Pressure lubricationCooling - By waterBore - 94 mmStroke - 90 mmCubic capacity ( cc ) - 2498Compression ratio - 17.8:1Operating cylcle - 4 stroke ( order 1-3-4-2 )Cylinders - In line arrangementMax Power - 79KW± 2     @ 3800 RPMMax Torque -
+247Nm ± 4      @ 1800-2200  RPM
+Weight of the engine - 287 ±2 Kg with flywheel%
+% 
+(9) Mahindra THARDimensions :Vehicle Specification Bolero THAR
+Dimensions mm
+Wheel base (WB) 2426Overall length (OL) 3920
+Overall Height (OH) 1928
+Tread - Front (T) 1445
+Tread - Rear (R) 1336Ground Clearance (G) 200Overhang Front (OF) 580Overhang Rear (OR) 930Approach Angle (AA) 46
+0
+Departure Angle (DA) 300
+Overall Width (OW) 1765
+Note :  Specification subject to change without prior notice.DRIVE LINE
+ITEM
+Transmission NGT 530R,V4 GEAR RATIO
+1st 3.78 : 1
+2nd 2.09 : 1
+3rd 1.38 : 1
+4th 1.00 : 15th 0.79 : 1Reverse 3.52 : 1
+Transfer Gear ratio : High 1 : 1
+Low 2.48 : 1
+Axle ratio 4.30 : 1WEIGHTS :
+Kerb weight ( Kg ) 1750
+GVW ( Kg ) 2200
+Front Axle Capacity ( Kg ) 1100
+Rear Axle capacity ( Kg ) 1700
+Seating Capacity ( Nos ) 1+1(Including driver)Towing Capacity( Kg ) 750
+Model Features Table
+DESCRIPTION MAHINDRA BO LERO THAR
+ENGINE NEF CRDe 2.49 Litres
+TRANSMISSION NGT 530R
+AXLE RATIO 4.3 : 1
+STEERING POWER STEERING
+AIR CONDITIONING SYSTEM HEATER
+TRANSFER CASE FOR 4WD MANUAL SHIFT ( STANDARD )
+(10) Mahindra THAR(11) Mahindra THARzChassis Number / VIN Number
+The Vehicle chassis number is stamped on the right sidechassis member below the front fender. It is also stampedon the Name, Number & instruction plate located on the right
+side of the engine compartment for LHD vehicle & on left
+side of the engine compartment for RHD vehicle.
+zEngine Serial Number
+This number is punched on cylinder block on front pad (Nearwater pump).zVehicle Serial Number
+The vehicle serial number is stamped on the name, number& instruction plate fixed on the right side of the enginecompartment for LHD vehicle & on left side of the enginecompartment for RHD vehicle.Identification of Serial Numbers
+MAI-2kk-bx-45596
+(12) Mahindra THARInstruments
+1 . Speedometer
+2 . Odometer3 . Tripmeter/reset knob4 . Fuel Gauge5 . Temperature Gauge6 . TachometerINSTRUMENTSINSTRUMENTSINSTRUMENTSINSTRUMENTSINSTRUMENTSINSTRUMENTSINSTRUMENTSINSTRUMENTSINSTRUMENTSINSTRUMENTS  IN CLUSTER IN CLUSTER IN CLUSTER IN CLUSTER IN CLUSTER
+1.1.1.1.1. SpeedometerSpeedometerSpeedometerSpeedometerSpeedometer
+This indicates the speed at which the vehicle isdriven in km/hr.
+2.2.2.2.2. OdometerOdometerOdometerOdometerOdometer
+The odometer indicates cumulative kilometerscovered by the vehicle.
+3.3.3.3.3. Tripmeter & Reset knobTripmeter & Reset knobTripmeter & Reset knobTripmeter & Reset knobTripmeter & Reset knob
+The tripmeter indicates the distance travelledduring a particular trip or period. Press the resetknob to return the tripmeter indication to zero.
+4.4.4.4.4. Fuel GaugeFuel GaugeFuel GaugeFuel GaugeFuel Gauge
+Indicates the approximate level of fuel in the tank.It indicates at E-Empty; 1/2 - Half, F - Full.
+5.5.5.5.5. Temperature GaugeTemperature GaugeTemperature GaugeTemperature GaugeTemperature Gauge
+It indicates the operating temperature of the enginein 
+0C so that you may guard against overheating.
+6.6.6.6.6. TachometerTachometerTachometerTachometerTachometer
+It indicates the engine speed  in thousands of
+revolutions per minute.
+Note : Do not over rev the engine. Operating theengine at high RPM may cause severe enginedamage.
+(13)Mahindra THARInstruments
+.1.1.1.1.1.Odometer/Trip meter selector knobOdometer/Trip meter selector knobOdometer/Trip meter selector knobOdometer/Trip meter selector knobOdometer/Trip meter selector knob
+The speedometer indicates vehicle speed in km/h.  Theodometer records the total distance the vehicle hasbeen driven.  The trip meter can be used to measurethe distance travelled on short trips or between fuelstops.When the ignition switch is turned to ‘ON’ the displayshows the odometer or trip meter. The display showsthree types of indication; odometer, trip meter A andtrip meter B.Push the selector knob quickly to switch the indicationamong the three. You can use the two trip meters(A and B) independently.Push the selector knob for a little while (about 3seconds) to reset the trip meter to zero.
+TRIP A
+TRIP BODO
+About 3 secondsTRIP B TRIP A(14) Mahindra THARIndications of Warning Lamps
+1. Check Engine Malfunction MIL : 1. Check Engine Malfunction MIL : 1. Check Engine Malfunction MIL : 1. Check Engine Malfunction MIL : 1. Check Engine Malfunction MIL : When the lamp lights up
+and glows continuously indicates Engine Fault (other than EMS).Arrange for checking at the nearest Mahindra Authorised Dealerimmediately.
+2. Rear Fog Indicator :2. Rear Fog Indicator :2. Rear Fog Indicator :2. Rear Fog Indicator :2. Rear Fog Indicator : The lamp will glow when the rear fog
+lamps are ON.
+3. Headlight High Beam Indication:3. Headlight High Beam Indication:3. Headlight High Beam Indication:3. Headlight High Beam Indication:3. Headlight High Beam Indication:  Is illuminated when
+headlights high beam is ON or when headlight flash-to-pass isused.
+4. Battery Charging Warning Light :4. Battery Charging Warning Light :4. Battery Charging Warning Light :4. Battery Charging Warning Light :4. Battery Charging Warning Light : Lights up when the ignition
+switch is in the IGN position. Goes OFF as soon as the enginestarts. If the light remains ON even after the engine has started,it indicates that the battery is not being charged or malfunctionof alternator. In this case, park the vehicle safely at road sideand check the drive belt for looseness / breakage. If drive beltis okay, switch off all unnecessary electrical equipment and
+contact a Mahindra Authorised Dealer immediately.
+Note :Note :Note :Note :Note :
+Do not continue driving if the engine drive belt is broken or
+loose. This will cause engine overheat & poor braking.Check Engine Malfunction
+11111
+22222
+33333
+44444(15) Mahindra THAR
+5. Low Engine Oil Pressure Warning Light :5. Low Engine Oil Pressure Warning Light :5. Low Engine Oil Pressure Warning Light :5. Low Engine Oil Pressure Warning Light :5. Low Engine Oil Pressure Warning Light : Lights up when the
+ignition switch is in the IGN position, Goes OFF as soon as theengine starts. If the light remains ON even after the engine hasstarted, or comes ON while driving, stop immediately, and checkthe engine oil level. If low, add engine oil to the MAX level andcheck the light again. If still ON contact Mahindra Authorised
+Dealer Immediately.
+Note :Note :Note :Note :Note :
+Do not run the engine with low engine oil pressure warninglight ON. Otherwise it may damage the engine.
+66666. Parking Brake ON & Low Brake Fluid Warning Lamp : . Parking Brake ON & Low Brake Fluid Warning Lamp : . Parking Brake ON & Low Brake Fluid Warning Lamp : . Parking Brake ON & Low Brake Fluid Warning Lamp : . Parking Brake ON & Low Brake Fluid Warning Lamp : The
+      parking light and, the low brake fluid warning       light, areilluminated as long as the parking brake is applied. If light       does not go off after releasing the parking brake, there maybe problem with the vehicle braking system.
+Warning :Warning :Warning :Warning :Warning :
+Do not drive the vehicle if the        light is illuminated even afterreleasing the hand brake or if it illuminates while driving. Addbrake fluid to bring the level up to the ‘MAX’ mark. If the problemstill persists, avoid driving and have Mahindra Authorised Dealercheck/correct the braking system as soon as possible.
+IIIII
+IIIIIIIIIIPPPPP
+i( ) P( )Indications of Warning Lamps
+55555
+66666(16) Mahindra THAR7. Engine Coolant Temperature Gauge : 7. Engine Coolant Temperature Gauge : 7. Engine Coolant Temperature Gauge : 7. Engine Coolant Temperature Gauge : 7. Engine Coolant Temperature Gauge : Indicates the
+temperature of the engine’s coolant. At normal operating
+temperature 6 bars will be showing in LCD bar graph. High
+temperature LED will glow when the temperature reaches 110°Calong with 7 bars blinking with buzzer. In such a condition, switchoff the AC and observe. If still the problem persists, pull overthe Vehicle, switch OFF ignition and contact the nearest MahindraAuthorized Dealer.
+CAUTION :CAUTION :CAUTION :CAUTION :CAUTION :
+Do not continue driving with an overheated engine. It maycause damage to the engine.
+8. Water in Fuel Indication : 8. Water in Fuel Indication : 8. Water in Fuel Indication : 8. Water in Fuel Indication : 8. Water in Fuel Indi cation : when water accumulated in Fuel
+Filter reaches the maximum permissible limit, the indicator giveswarning to remove water and clean the fuel filter. (Instruction
+for how to drain the water is given in the Self Maintenance
+Section (Page no.41) or contact a Mahindra Authorised Dealer.)
+CAUTION :CAUTION :CAUTION :CAUTION :CAUTION :
+Continued driving with water accumulation in the fuel filter willcause damage to the fuel pump/other fuel system components.
+Water in Fuel IndicationIndications of Warning Lamps
+8888877777(17) Mahindra THARInstruments (With Digital Cluster)
+9. Seat Belt Warning :9. Seat Belt Warning :9. Seat Belt Warning :9. Seat Belt Warning :9. Seat Belt Warning : The light reminds  to fasten seat belts &
+it will light up when the driver has not worn the seat belt withthe ignition key is IGN position/when vehicle is in motion. The
+lamp will remain illuminated until the seat belt is fastened
+properly.
+10. Check EMS (Engine Management System)  Warning Lamp10. Check EMS (Engine Management System)  Warning Lamp10. Check EMS (Engine Management System)  Warning Lamp10. Check EMS (Engine Management System)  Warning Lamp10. Check EMS (Engine Management System)  Warning Lamp
+::::: As soon as the ignition key is switched ON, the lamp lights up
+and goes OFF in few seconds indicating normal status. The lampwill blink / glow continuously indicating the presence of fault inEMS. The vehicle needs attention by Mahindra Authorised Dealer
+immediately.
+11. Turn Indicator :11. Turn Indicator :11. Turn Indicator :11. Turn Indicator :11. Turn Indicator : Flashes when the indicator lamps are
+operated or hazard switch is turned on. A sudden increase inthe rate of flashing may indicate failure of one or more of theindicator bulbs.
+12. Glow Plug  Indicator :12. Glow Plug  Indicator :12. Glow Plug  Indicator :12. Glow Plug  Indicator :12. Glow Plug  Indicator : When ‘ON’ indicates  that pre - heating
+is on.It goes out when the glow plug is warm.Do not crank theengine when the glow plug is ‘ON’ , to avoid  excessive load onbattery and ensureeffective starting.
+Left Turn I ndicator Right Turn I ndicator 1010101010
+111111111199999
+1212121212(18) Mahindra THARControls
+Heater Controls :Heater Controls :Heater Controls :Heater Controls :Heater Controls :
+1. Heater Switch :
+The knob is turned clockwise, the heater comes ‘ON’.
+2. Blower Switch :
+Air flow can be controlled in three stages - low, medium,high.
+3. Lock & Unlock the Steering Wheel :
+To lock :
+Remove the key at the ‘Lock’ position. Turn the steeringwheel until it is locked.To unlock :Turn the key to the "ACC" position while moving thesteering wheel slightly.HeaterSwitchBlower
+Switch
+Steering Lock
+333331 & 21 & 21 & 21 & 21 & 2(19) Mahindra THARBonnet locking / unlocking :Bonnet locking / unlocking :Bonnet locking / unlocking :Bonnet locking / unlocking :Bonnet locking / unlocking :
+To Open :
+Pull the release lever located below the instrument
+panel on right side for RHD vehicle and on left side
+for LHD vehicle. Then pull open the lever below thebonnet and open the bonnet.
+To Close :
+Just drop the bonnet gently and press it, if required.
+Opening and Closing the Bonnet :
+1. Ensure that the vehicle is in neutral gear and set
+the parking brake. Pull the bonnet release lever  toposition B from A and release which is located under
+extreme LH /RH corners ( LH for LHD models &
+RH for RHD models ) of the instrument panel. Thiswill release the bonnet lock and bonnet will pop
+up slightly.
+2. Stand in front of the vehicle, lift the additional lock
+lever located under the bonnet centre with a finger
+and lift the bonnet up.
+Caution :
+Make sure that the bonnet is fully closed and locked
+before driving.Controls
+Lever(20) Mahindra THARSide Ventilation Louver
+ Central Ventilation Louver
+zzzzzCentre & side vents
+The airflow volume can be adjustedwith the rotary controls at the sides.
+The air vanes can be adjusted
+horizontally & vertically by swivellingthe vents up / down or sideways.
+For up/down or
+sideways air flow.Rotary Control for
+volume controlControls
+Air Ventillation Louvers(21) Mahindra THARSteering Column Controls - Combination Switch
+(22) Mahindra THAR1. Internal Rear View mirror : Adjust the rear view mirror,
+in the day position, by slightly turning or twisting it untillyou see the road behind clearly through the rear glass.
+zCaution: Do not adjust the mirror while the vehicle ismoving. If doing so may cause the driver to mishandlethe vehicle and may result in loss of vehicle control.
+2. Glove Box :  Glove box is provided in instrument panel.
+It can be kept unlocked condition & can be opened bypressing the side knobs provided on lock.
+3. Sun-visors :  Sun-visors protect the eyes from bright light.
+They can be lowered, released from the retention clipsand swivelled sideways towards the door.
+zSmoking in the Vehicle :  Avoid smoking inside the
+vehicle. Smoking in the vehicle spoils the ambience and
+the interiors of the vehicle.
+zDo not toss a cigarette out of the window. It may land
+on somebody or may result in a fire hazard. Ashtrays havebeen provided both in the front and the back for disposingash and cigarette butts.
+zTake care not to drop the cigarette on the seats. It mayburn holes in the upholstery.
+Other Features
+11111
+22222
+33333(23) Mahindra THARGuidelines on Driving
+Take the following friendly notes as a guideline for driving
+& enjoy the journey. Every normal precautions should beobserved during driving the vehicle.
+Hints to driver
+zEnsure oil, collant, fuel, fluid levels and carry out other
+daily checks (e.g. tyre pressures, bulbs)
+zMake sure that hand brake lever is moved to OFF positionbefore moving.
+zAfter completing the "running - in" (approx. 1000 kms),operate in uniform speed as much as possible for gettingimproved fuel KMPL & to prevent potential failures.
+zFrom time to time keep an eye on the gauges. If anyabnormality is noticed, stop the vehicle for safety &check.
+zFrequent eye on the dash board is essential to monitorthe functioning of various systems.
+zWhile parking in down gradient, engage the gear shiftlever in reverse position with hand brake on.
+zDo not add cold water to the hot engine (leads to crackin engine components).zBe aware of the maintenance needs of the vehicle.
+zDo not operate starter for more than 15 seconds at atime (give some time lapse before trying again).
+zFilling the diesel tank at the end of each day will reducewater condensation in the tank.
+zAvoid clutch pedal ride as it leads, to premature wearof clutch plates & consequently clutch slips.
+zWhile washing, ensure water does not enter in to aircleaner or electrical parts.
+zFamiliarise with the hand tools.
+zFamiliarise with legal requirements governing the use ofyour vehicle.(24)Mahindra THARstopping. Not doing so may lead to premature failure of
+the turbo-charger bearing.
+Starting in Cold Weather or at High Altitudes
+To start the engine in cold conditions
+zTurn off all accessories to reduce drain on the battery
+zPush the accelerator pedal halfway to the floor and holdit there while starting the engine
+zDo not crank the engine for more than 10 seconds ata time. When the engine starts, release the acceleratorpedal gradually as the engine speeds up and smoothesout
+zIf the engine still fails to start, push the accelerator tothe floor and hold it there while you crank the engine.Do this for not more than 10 seconds at a time.
+If you haven’t driven the vehicle for several days, or if the
+climate is cold, warm up the engine by idling it for a few
+minutes before driving.Stopping the EngineBring the vehicle to a stop and allow the engine to idle. Turnthe key to OFF position.CautionAbruptly stopping the engine after a long journey may damagethe engine. Idle the engine for some time before switchingit OFF.Guidelines on Driving
+Starting & stopping engine
+Starting the Engine
+zApply the parking brake fully.
+zInsert the key into the ignition switch and turn it into theIGN position.
+zIf the vehicle is equipped with glow plug, wait for preheat
+glow plug light in the instrument cluster to go OFF, during
+cold start. The engine may be started without waiting forpreheat if the engine is warm.
+Ensure the gear lever is in neutral position.Crank the engine by turning the key to START position till
+the engine starts. If the engine does not start in the firstattempt, wait for few seconds and try again.
+zLet the engine run for at least 10 second before releasingthe parking brake.
+zStart driving
+Warning : Release the key immediately after the engine
+starts; otherwise this may cause serious damage to  thestarter assembly.
+Warning : Your vehicle is equipped with a turbo-charger.
+Idle the engine for a minute after starting and before(25) Mahindra THARInstructions for Driving in the Running :
+You can assure that your vehicle’s reliability and performance
+by paying extra attention to how you drive during the first1,000 km. (600 miles).
+Follow these instructions during this period.
+zAfter starting the engine, do not rev it up; Warm up
+gradually at idling speed.
+zDo not drive over 60 km./hr.
+zAvoid sudden acceleration and full throttle
+zDo not drive for a long time at a single speed; Eitherincrease or decrease the speed at intervals.
+zDo not drive slowly with the transmission in high gear
+zAvoid hard braking; New brakes need to be broken-in bymoderate use for the first 300 km. (200 miles)
+These recommendations should be followed when the engineis overhauled or when the brake pads / linings are replaced.1,000
+km.Guidelines on DrivingzVehicle is fitted with 5 speed synchromesh gear box
+& standard transfer case (in case of 4WD)
+zOn these vehicle, the gear positions are marked on the
+gear lever knob.
+5 Speed Transmission with Transfer Case
+It gives a choice of 15 forward & 3 reverse powercomibinations with the addition of standard transfer case.NOTE :
+5 Speed transmission & Transfer case require separatelubrication for each unit as they have no cross over oilpassage. At each Transmission service check, the fillerplugs of transmission & transfer case should be removed& the lubricant refilled to level if necessary.
+SHIFTING PATTERN
+TRANSMISSION TRANSFER CASE
+(Single lever)
+(Manual)
+2 WDH
+4 WDH
+N
+4 WDL11111 33333
+22222 44444N55555
+RRRRRGear Shifting
+(26)Mahindra THARMud, Snow & Sand
+Shift to 4WDH range first gear when traversing without load.
+Do not shift into any lower gear than is necessary to maintainheadway. Tyre pressure may be reduced by about 0.7 kg/cm2 (10 psi), if additional floatation is required.Up hillShift to 4WDL range, second gear. Drop down to first gear
+only when the steepness of the ascent requires the lower gearto maintain headway.NoteOver-reving the engine will cause the wheels to start spinning& traction will be lost.Getting over the HumpIf the wheels start to slip with only a few feet of the ascentremaining, headway may be maintained by swinging the frontwheels sharply left & right. This will provide a fresh 'bite' intothe surface & will usually result in enough traction tocomplete the climb.StallIf the vehicle stalls or loses headway when climbing asteephill, make a fast shift to reverse or first gear. Do notdepress the clutch. Engine compression will hold the vehicleon the hill. Do not try to back down with the clutch released& only the brakes holding the vehicle. By shifting to reverse,
+it is possible to start the engine without depressing clutch.Let the vehicle move backward with the starter. When enginestarts, control the downward speed with the accelerator.Down hillShift to 4WD range, first gear. Do not use clutch & brakes.
+Now the vehicle can proceed safely down a grade slowly withall 4 wheels turning against engine compression.Caution
+zAs soon as the vehicle finishes, its traversing through thehubs in sand, mud or water, clean the brake drums fromforeign abrasive materials sticking to it to avoid thewearing of brake linings.
+zWhen negotiating across slopes or hill, choose as mildan angle as possible (keep moving & make turns quickly).Do not travel diagonally across a hill unless absolutelynecessary.
+zFor normal driving on hard surfaced roads, 4WD shouldnot be used.
+zTo relieve the build up of torsional stresses, due toprolonged use of 4WD on hard surface roads, simply drivethe vehicle in reverse for several feet or drive off hardsurface momentary to allow tyres to slip.Gear Shifting -  4 WD
+(27) Mahindra THARDriving in Wet Weather / Snowy Conditions
+Wet weather or snow can be dangerous for driving. The
+following tips tell you how to avoid accidents in suchconditions :
+zDrive slowly : Low driving speed increases the surfaceof tyre tread in contact with the road and provides bettertraction.
+zMaintain safe distances from other vehicles : Wet weatherresults in longer stopping (about four times that ofnormal stopping distance). So, it make sense to keep agood distance from other vehicles, people and objectson you path.
+zMaintain tyres : Tyres do not provide adequate tractiononce the tread wears below two thirds of the tread depth.Check tyres regularly and replace them atappropriateintervals.. Maintain the recommended tyre pressure in thetyres at all times.
+zWhile braking, accelerating or turning, avoid jerky andabrupt movements
+Apply smooth, even pressure on all controls. Abrupt steering
+wheel movements or sudden, hard application of brakes cancause loss of control.
+Driving Tips
+(28) Mahindra THARDriving Tips
+zExercise extra caution while driving in rain after a long
+dry spell. After months of dry weather, the first rainsbring grime to the surface of the roads, making itslippery.
+zWhile driving on wet surfaces, downshift carefully. If thetraction is low it can lock up the drive wheels for amoment and cause a skid.
+Driving in Low Visibility
+Being able to see clearly in all directions and being visibleto other drivers is important in all weather conditions. Thisis more difficult in bad weather conditions.To be seen moreclearly during daylight hours, turn the headlights ON. Inspectthe windshield wipers and washers regularly. Keep thewindshield washer reservoir full. If the windshield wiperblades start to streak the windshield or leave parts unwiped.replace them. Use the defroster to avoid fogging or windshieldon the inside.
+(29) Mahindra THARShifting Driving ModesShifting Driving ModesShifting Driving ModesShifting Driving ModesShifting Driving Modes
+Manual Shifting of Driving Modes ( In vehciles with Manual 4WD Shift Lever)Manual Shifting of Driving Modes ( In vehciles with Manual 4WD Shift Lever)Manual Shifting of Driving Modes ( In vehciles with Manual 4WD Shift Lever)Manual Shifting of Driving Modes ( In vehciles with Manual 4WD Shift Lever)Manual Shifting of Driving Modes ( In vehciles with Manual 4WD Shift Lever)
+TO SHIFT TRANSFERTO SHIFT TRANSFERTO SHIFT TRANSFERTO SHIFT TRANSFERTO SHIFT TRANSFER SHIFT PROCEDURE FOR ELECTRIC T / F CASE WITH AUTO LOCK - FREE - RUNNING HUBSSHIFT PROCEDURE FOR ELECTRIC T / F CASE WITH AUTO LOCK - FREE - RUNNING HUBSSHIFT PROCEDURE FOR ELECTRIC T / F CASE WITH AUTO LOCK - FREE - RUNNING HUBSSHIFT PROCEDURE FOR ELECTRIC T / F CASE WITH AUTO LOCK - FREE - RUNNING HUBSSHIFT PROCEDURE FOR ELECTRIC T / F CASE WITH AUTO LOCK - FREE - RUNNING HUBS
+From 2H to 4H or l Drive in a stright line up to maximum speed of 30 km / hr
+l Do not depress the clutch pedal
+l Shift the lever quickly and smoothly to position 4H
+From 4H to 4L or l Stop the vehicle
+From 4L to 4H or l Depress the clutch pedal and shift the lever to the desired mode
+From 2H to 4L orFrom 4L to 4H
+Caution :Caution :Caution :Caution :Caution :
+Never shift lever to 4WD position if wheels are slipping.  Stopthe slipping or spinning before selecting the 2wd modes.
+Note :Note :Note :Note :Note :
+Driving the vehicle in 4WD Low / High mode on dry, hardsurface may cause damage to the driveline, may causeexcessive tyre wear / unnecessary noise and / or poor fueleconomy, hence not recommended.
+2H
+4H
+4LN
+(30) Mahindra THARWheel Locking Hubs (Only for 4WD vehicles)Wheel Locking Hubs (Only for 4WD vehicles)Wheel Locking Hubs (Only for 4WD vehicles)Wheel Locking Hubs (Only for 4WD vehicles)Wheel Locking Hubs (Only for 4WD vehicles)
+Automatic Locking HubsAutomatic Locking HubsAutomatic Locking HubsAutomatic Locking HubsAutomatic Locking Hubs
+Note :Note :Note :Note :Note :
+When you shift to 4WD mode, an auidible ‘Click’ will indicate thatautomatic locking hubs are engaged and therefore power is beingtransmitted to the front wheels.  While changing back to the 2WDmode.  the hubs need to be released.
+To Release the locking hubsTo Release the locking hubsTo Release the locking hubsTo Release the locking hubsTo Release the locking hubs
+ Shift from 4WD to 2WD
+ Reverse the vehicle in a stright line for about a meter
+ An auidble ‘Click’ will indicate that the hubs have been released
+ Unlocking is necessarily required to be done to isolate front
+       axle & transfer case from transmission & from front wheels
+CautionCautionCautionCautionCaution
+If auto - lock hubs make a clattering noise when driving in 2Hmode, stop and move the vehicle about 2 to 3 meters in bacwarddirection.
+Note :Note :Note :Note :Note :
+When engaging & disengaging, the auto-lock hubs will make aclicking noise. It is normal.
+Shifting Driving ModesShifting Driving ModesShifting Driving ModesShifting Driving ModesShifting Driving Modes
+(31) Mahindra THAR4L - 4L - 4L - 4L - 4L - (4WD, low mode) Four wheels are driven. Use while climbing
+or descending steep hills, or during hard driving in sand, mud ordeep snow.  The ‘4L’ position provides maximum traction.  Avoidexecessive speed when driving in ‘4L’ mode.
+N-N-N-N-N- (Only for manual shift transfer case models) No wheels are
+driven.  Always keep the transfer lever out of the ‘N’ position.
+Shift the lever quickly and smoothly when moving across the‘N’ position with the vehicle stopped.
+Need not to stop the vehicle / depress the clutch pedal, when
+shiffting between 2H  to 4 H and 4 H to 2 H.
+Caution :Caution :Caution :Caution :Caution :
+l Driving the vehicle in 4WD Low / High mode on dry, hard
+surface may cause damage to the driveline, excessive tyre,poor fuel economy & unnessary noise, henace notrecommended.
+l Never select the 4WD mode if wheels are slipping.  Stopthe slipping or spinning before selecting the 4WD modes.Transfer Case Shifting Guidelines for 4WD (4-WheelTransfer Case Shifting Guidelines for 4WD (4-WheelTransfer Case Shifting Guidelines for 4WD (4-WheelTransfer Case Shifting Guidelines for 4WD (4-WheelTransfer Case Shifting Guidelines for 4WD (4-Wheel
+Drive ) Models.Drive ) Models.Drive ) Models.Drive ) Models.Drive ) Models.
+2H - 2H - 2H - 2H - 2H - (2WD) in this mode only rear wheels are driven.  Use
+when driving under conditions same as standard 2WDvehicles.
+4H - 4H - 4H - 4H - 4H - (4WD, high mode) Four wheels are driven.  Use when
+driving on roads where it is difficult to drive in 2H position(i.e. driving at normal speeds on snow covered, icy, wet,muddy or sandy road surfaces).  Avoid excessive speeds, asit will cause loss of traction.Shifting Driving ModesShifting Driving ModesShifting Driving ModesShifting Driving ModesShifting Driving Modes
+(32) Mahindra THARThe belt allows considerable freedom of body movement to
+driver or passenger whilst the vehicle is going at a constantspeed & in a straight line. The belt will get locked, if thereis any rapid change in direction or speed.
+Seat Belt Fitting
+In order to fit the belt draw the tongue & webbing acrossthe body from the outboard shoulder to the inboard hip,where the buckle is located. Push the tongue into the buckleslot until a firm click is heard. Check the buckle for securityby tugging sharply on the webbing. To unbuckle, simply pressthe release button on the buckle.
+The retractor mechanism ensures that the correct tension &
+slack in the webbing is preserved. Slack belt webbing vastlyincrease the chances of injury during an accident.
+Care must be taken to avoid the use of polishes, acids, oils
+& chemicals on webbing & if contaminated or damaged orafter a severe vehicle impact, seat belts must be renewed.For cleaning, soap & water can be used.To fit the belt
+To unbuckle the belt
+Seat Belt
+(33) Mahindra THARAs the owner of the vehicle you are responsible for maintaining
+the vehicle in good condition & low emissions from thevehicle.
+Here are few tips for lower emissions from your vehicle
+zMaintain the recommended tyre pressure. Get the
+tyre pressure checked perioidically.
+zClean/replace the air filter at regular intervals.
+zClean the fuel injector nozzles at recommendedintervals.
+zChange the engine oil/oil filters at recommendedintervals.
+zIn case your vehicle is emitting excess smoke (Blue/white / black smoke) get your vehicle checkedat authorized service station.
+zAllow your engine to warm up after a cold start.zDrive the vehicle in correct gears. Avoidsudden accelerations & decelerations.
+zStop the engine if the engine has to idle for longer
+duration.
+zAvoid clutch riding & check the clutch play.
+zGet your vehicle emission checked periodically.
+zDo not use adulterated fuel.
+zUse genuine parts & recommended oils & lubes.
+zCheck/adjust the belt tension periodically.
+zGet the tappet clearances checked as recommended(as indicated in maintenance schedule)
+zDo not tamper with the FIP Settings & idling rpm.
+These tips would not only reduce your vehicle emissions but
+also gives you better performance.Emission Control - Precautions
+(34) Mahindra THARCaution
+z Avoid use of high sulphur diesel. Use only diesel with sulphur
+content below 500 ppm.
+z Avoid frequent cold starts.
+z Avoid starting the engine by pushing or towing the vehicle,
+or by coasting down a hill.
+z Do not switch off the engine or interrupt the ignition when
+the gearbox is engaged and the vehicle is in motion.
+z Do not idle the vehicle for prolonged periods if idling seems
+rough or any other malfunctions.
+z Do not run out the fuel tank totally.
+z Do not switch off and on ignition while the vehicle coasts
+down.
+z Do not park or operate the vehicle near combustible materials
+like dry grass & leaves. This may lead to fire hazards.
+z Avoid driving on water flooded roads
+z Do not operate the engine in confined areas like garages.
+z Check for exhaust system leaks and any damages:
+- Each time the vehicle is raised for an oil change.- Whenever a change is noticed in the noise of the exhaust
+system.
+- Whenever the tail pipe end of the exhaust system is found
+rusty.A catalytic converter is an exhaust gas after-treatment device
+fitted in the exhaust system of your vehicle to reduce pollu-tion. It converts harmful unburned hydrocarbons and carbonmonoxide into harmless carbon dioxide and water vapor.
+Care & Maintenance to minimize the possibility of the damage
+to catalytic converter
+z Maintain the engine in the proper operating conditions, as
+per owner’s manual.
+z Consult a M & M  Authorised Dealer at the earliest in the
+event of irregular engine running following a cold start, misfir-ing, a significant loss of vehicle derivability or other unusualmalfunctions which may indicate a fault in the ignition system.
+z If necessary, drive the vehicle to the nearest outlet for a short
+time at low engine speed.Diesel Catalytic Converter
+(35) Mahindra THARDo's & Dont 's
+Do's
+1. Use recommended lubricants only. Replace oil in engine,
+gear box, rear axle, steering box, master cylinder & oil
+bath air cleaner periodically as per schedule.
+2. Use only genuine oil filter & fuel filter elements.3. In order to obtain trouble free & enhanced engine life,
+clean air filter element regularly. Replace filter elementwhen service indicator shows red band even after
+cleaning the filter element.
+4. Ensure periodic servicing as per maintenance schedule.5. Insist on use of genuine Mahindra  spare parts for all
+replacement.
+6. Allow the starter pinion to come rest before again
+attempting to start the engine in order to avoid pinion
+& flywheel ring gear damage.
+7. Replace thermostat in the event of failure & ensure
+fitment of pressurized radiator cap to get better enginelife.
+8. Maintain correct tyre pressures as specified in chart.
+Before moving the vehicle release the parking brake.
+9. Maintain electrolyte level in the battery (using distilled
+water). Keep battery terminals clean & cable joints tight.
+Apply Vaseline petrolium jelly  on terminals.10. Disconnect alternator/battery electrical connection while
+carrying out welding work on the vehicle. Observe correct
+polarity when connecting battery terminals.
+Dont 's
+1. Do not run the vehicle with leaky air pipes, fuel pipes
+& water hoses.
+2. Do not run the vehicle without a battery in its electrical
+circuit as the life of alternator will be reduced.
+3. Do not open degassing tank cap when engine is hot.
+Never add cold water when engine is hot as this maylead to cylinder head/block crack.
+4. Do not keep the engine running when the pointer of
+the temperature guage is in red zone.
+5. Do not use clutch pedal as a foot rest. It will cause
+premature wear of clutch plate, release bearing, clutchfinger & also clutch, which results in less KMPL.
+6. Number of passengers carried should be within approved
+seating capacity.
+7. Do not race or rev the engine especially when starting,
+This is destructive to engine & will not heat the enginequickly.
+(36) Mahindra THARMaintenance Procedure
+Vehicle maintenance when out of use
+Engine -  Start & run the Engine a few minutes once in a
+week. Drive the vehicle a little forward & backward oncea fortnight.Cooling system -  Add coolant and water in the ratio
+indicated in section ‘Radiator’.Electrical -  Disconnect the terminals of the battery & store
+it separately. Smear petroleum jelly on the terminals &recharge once in a month.Clutch -  Press the clutch pedal to the floor board in fully
+depressed position.Brakes -  Operate the brake pedal a few times once a week.
+Check & top-up brake fluid in master cylinder once in amonth.Tyres -  Maintain the normal tyre pressure & check it once
+in a week. Support the vehicle so that load on the tyresis relieved & correct the tyre pressure before the vehiclestands on the wheel.Body -  Coat rust-proof to all bright metal. Cover up with
+upholstery.Engine
+Topping up the Engine OilThe engine oil level should be maintained at little below  high
+mark on the dipstick & must never be allowed to fall belowthe low. While checking the oil level, park the vehicle on a
+level ground with the engine shut down. Withdraw the dipstickfrom its holder, clean & refit. Withdraw again & note the level.Top-up as required with the clean correct grade of engine oil.Always drain & fill the oil when engine is warm.Note -  Start the engine, run at a fast idling speed for about
+a minute. Stop the engine & after allowing some time oillevel to stabilize, recheck again & top-up if necessary.
+zDo not mix different brands or grades of oil.
+zLubricating oil filter should be replaced at everyoil change.
+Use oil grade as per lubrication chart for ambient up to -
+5
+0C. At lower temperature, use oil of lower viscocity grade.
+(37) Mahindra THARThe air filter is located on the Right Hand (RH) side of
+the engine compartment. A dry type air filter is used. Airfilter service indicator (SI) is fitted on the hose betweenthe air filter and engine. This service indicator has to bechecked at every 5000 km. to confirm that red band doesnot appear on service indicator. Whenever red bandappears, it means that the air filter element is choked upand needs servicing. Clogged air filter leads to higher intakeresistance and can reduce the driveability of the vehicle.Servicing Instructions :
+zIt is adviced to service air filter through Mahindra
+Dealer/Service Centre.
+zPeriodically clean the air filter element :Every 10,000 kms. (or 6 months) on paved road. OR
+Every 5,000 kms. (or 3 months) on dusty road. OR
+When service indicator shows red band.
+zReplace element :When service indicator shows red band even after cleaning the filter element. OR
+Every 40,000 kms. (or 2 years) OR
+If holes or tears are found in the element.
+Caution :
+Do not operate the vehicle without air filter element.Air Filter, Radiator & Fuel Injection System
+ 
+(38) Mahindra THARRadiator
+zUse always clean water.
+zFlush the radiator once in a year.
+zNever pour cold water into warm engine.
+zKeep the radiator area free of insects & other things that
+restrict air circulation.
+Note :
+The cooling system should be filled with Blend of clean water
+with Ethylene Glycol based coolant. The coolant also providesanticorrosion protection if concentration 15 % and above.
+The recommended coolants are : BASF Glycentine or Total
+Finolf - Glacelf Supra at a ratio of water : coolant of 70:30,
+50:50, 30:70. For ambient temperature upto -10
+0C, -110C to
+-200C, -200C to -350C respectively. Use of alcohol as an anti-
+freeze is not recommended. Use the anti-freeze when theoperating temperature falls below 0
+0C. Caution :
+Never remove the Radiator Tank cap, when the engine is
+hot. (If applicable)Recovery Tank :Air Filter, Radiator & Fuel Injection System
+(39)Mahindra THARFuel Injection System :Fuel Injection System :Fuel Injection System :Fuel Injection System :Fuel Injection System :
+Fuel Injection Pump (FIP) is of a rotary type.
+Make : Bosch
+z FIP is made out of finely machined, close tolerance
+components, & is lubricated by the diesel fuel used in the
+engine & not by a separate oil reservoir. It is therefore of
+utmost importance that water & dirt be kept out of the
+FIP.
+zFIP requires neither maintenance nor lubrication check thetightness of the piping to avoid any air intake which would
+cause excess consumption.
+zIt is recommended that FIP & injector should always begiven to the authorised dealer  for service.
+zCheck the FIP when frequent starting difficulties are
+encountered & noise or black smoke is coming from the
+exhaust.
+Caution
+zSince the fuel is the lubricant do not crank the engine for
+extended periods with fuel lines disconnected or empty fuel
+tank.Air Filter, Radiator & Fuel Injection System
+Fuel Filter :Fuel Filter :Fuel Filter :Fuel Filter :Fuel Filter :
+Draining water from fuel filter-
+The fuel filter warning light on indicates that the water from
+the fuel filter to be removed immediately.
+zPlace a small open container / tray under the drain plugcum sensor to collect the water.
+zTurn the drain plug cum sensor about 2 to 2.5 turnsin the anti clockwise direction.
+zOperate the priming pump until fuel begins to flow cleanand clear.
+zAfter draining, retighten the drain plug cum sensor. Donot use any tool.  Use the priming pump to inspect for
+leaks.
+(40) Mahindra THARzMaintain a clean air-cleaner; Clogged air-cleaner
+decreases the amount of air supplied to the engine,resulting in incomplete combustion and thus, wastageof fuel.
+zAnticipate traffic conditions; Avoid traffic congestionswhenver and wherever possible. This would lead toconsiderable fuel savings.
+zFollow proper driving practices; Do not rest your footon the clutch or brake pedals unnecessarily; It doesn’tallow transmission of full engine power to the wheels
+and causes premature wear and results in poor fuel
+economy.
+zFollow the recommended maintenance schedule; Getyour vehicle checked and maintained periodically by theMahindra Authorised Dealer.
+zUse the air-conditioner only when necessary.
+zUse only recommended grade fuel
+zUse only recommended grade oil
+zUse only recommended coolantAir Filter, Radiator & Fuel Injection System
+Fuel Tank
+zClean the tank at regular intervals once in a year.
+zEnsure that no foreign matter or water enters during
+filling the fuel tank.
+zEnsure that breather system is not clogged.
+Tips for Improving Fuel Efficiency
+zMaintain correct tyre pressure; Under-inflated tyres
+result in increased running resistance, leading to higherfuel consumption.
+zMaintain proper front-wheel alignment; Improper front-wheel alignment causes tyres to wear out faster andexerts more load on the engine, leading to higher fuelconsumption.
+zAvoid driving with excess weight; Excess weight increasesload on the engine, leading to higher fuel consumption
+zAvoid excessive engine idling; It is advisable to switchthe engine OFF during prolonged waits at traffic signals,railway crossings etc.
+zAvoid fast start and unnecessary stops; Avoid sudden
+acceleration or deceleration
+(41) Mahindra THARzAvoid looseness in the steering system. Adjust various
+connections including the front wheel bearings.
+zCheck the wheel alignment by the use of wheelalignment device (available in most equipped shops).
+zCorrect Toe-in for front wheels (for 4WD)- 8' to 12 '
+per wheel. Maintain correct alignment.
+Power steering system
+Power steering with universal joint, reduces effort duringsteering vehicle.The procedure for filling oil in reservoir is as follows
+:
+zFill the reservoir nearly full. Crank the engine for 10seconds without, if possible allowing it to start.
+zCheck for any leakage in the system.
+zStart the engine & steer the vehicle from full left tofull right turn (3-4 times). Add fluid if necessary tomaintain the level up to the filter top. Check & refillreservoir up to H mark on dipstick.
+zSystem is self bleeded & does not require any bleedingoperation.
+zNow the system is ready for driving.Steering System
+SteeringGearboxPumpReservoir
+(42) Mahindra THARFRONT REAR TYRE SIZE
+(LADEN/UNLADEN)  (LADEN/UNLADEN)
+2.4 Kg./cm22.4 Kg./cm2P235 70R 16
+Radial Tyre
+Wheel Bearing
+zUse always recommended wheel bearing grease.
+zLubricate the rear wheel bearings sparingly.
+zDon't mix lithium base grease with sodium base
+grease as it is harmful to oil seals.zAlways use recommended oil from closed container. Anydirty oil poured in the system will result in damage topump/gear.
+zDo not start the engine without oil in the Power steeringsystem. This will result in serious damage to the pump.
+zRegularly check fluid & fluid level in the power steering
+reservoir.
+zRemove cause of steering column misalignment.
+zInvestigate & correct any external leaks, no matter howminor.
+zDo not attempt to weld any broken steering gearcomponent. Use genuine component of steering only.
+zKeep the tyres inflated to correct pressure.
+Tyres
+zInflate the tyres as per chart.
+zFor getting a good tyre mileage, it is suggested to rotate
+the tyres for every 10000 Kms. Check the tyre foralignment.SPARE
+TYRE ROTATION¤¤
+¤
+¤¤
+¤VEH
+FRONTRoutine Maintenance
+(43)Mahindra THARRecommended Lubrication Chart
+API CH4
+80W 90
+(44) Mahindra THARMaintenance Schedule
+(45)Mahindra THARMaintenance Schedule
+(46)Mahindra THARMaintenance Schedule
+(47) Mahindra THARMaintenance Schedule
+(48) Mahindra THARMaintenance Schedule
+(49) Mahindra THARRecommended Odometer Repair Servicing dealer's
+Services at KM Date Reading KM Order No. Signature with stamp
+PDI
+5000
+10000
+20000
+30000
+40000
+50000Record of Services Performed
+(50) Mahindra THARRecommended Odometer Repair Servicing dealer's
+Services at KM Date Reading KM Order No. Signature with stamp
+60000
+70000
+80000
+90000
+100000Record of Services Performed
+(51) Mahindra THARJack Position SPARE WHEEL MOUNTING :
+It is provided on the tail gate.Tighten the spare wheel hanger as shown in the figure. To loosen,rotate in the opposite direction & remove the wheel from thehanger bracket.Spare Wheel Mounting
+Jack mounting position inthe vehicle
+zJacking position for front wheels
+zJacking position for rear wheels isbelow rear axle
+zJack is kept in tool box below thefront LH Seat.
+(52) Mahindra THARzDo not remove the filler cap from the radiator/degassing
+tank.
+zKeep engine and surrounding area clean and free from fuel
+and oil leakages to avoid possible fire risk.
+zPlay some additional support with the jack for adequatestrength.
+zPark the vehicle on a level and hard ground when lifting
+vehicle.
+zEnsure stopper is used to arrest the movement of the
+vehicle.
+zSlow down the vehicle during taking a turn and shifting thegears.
+zAlways keep the wind screen clean in order to havbe a clearvisibility.
+zAvoid applying brakes violently in slippery roads.
+zWhen the brakes are wet apply brakes slightly in a slowspeed till brake performance becomes normal.Drinking and Driving : Don’t go together
+Driving, anytime, anywhere, under the influence of alcohol or
+drugs is dangerous to you, to your family, the passengers andto everyone else on the road. Alcohol or drugs reduce yourawareness and lead to accidents.
+Driving Long Distances
+When you are driving over long distances, follow these tips so
+that you have a safe journey :
+zNever drive more than 150 kms at a time. Switch drivers
+even if you are not tired.
+zLack of sleep or fatigue may impact your ability to drivesafely
+zExercise your eyes by shifting the focus of your eyes to
+different parts of the road.
+zUse stimulating beverages such as coffee or tea.
+zRelax and stay calm.
+Use of Seat Belts
+zIn the interest of safety to the driver and passengers of all
+four wheelers, wearing of seat belts at all times during thedriving is essential.
+zUsing a hand phone while driving constitutes nuisance or
+danger to the public and hence must be avoided.Safety
+(53) Mahindra THAR
